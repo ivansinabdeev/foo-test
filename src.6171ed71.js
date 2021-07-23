@@ -5,4 +5,4 @@ const e='<div class="content-wrap"><h2 class="title">Yevhenii-test</h2></div>',t
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/yevhenii-test");
 },{"./sass/main.scss":"clu1","./js/yevhenii-test":"zIsl"}]},{},["Focm"], null)
-//# sourceMappingURL=/foo-test/src.b73ec57d.js.map
+//# sourceMappingURL=/foo-test/src.6171ed71.js.map
