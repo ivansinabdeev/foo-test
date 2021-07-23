@@ -1,1 +1,0 @@
-{"version":3,"sources":["sass/_example.scss"],"names":[],"mappings":"AAAA,KACE,yBAGF,cACE,aAAA,CACA,cAAA,CACA,aAAA,CACA","file":"src.4211e111.css","sourceRoot":"../src","sourcesContent":["body {\n  background-color: antiquewhite;\n}\n\n.content-wrap {\n  color: aquamarine;\n  font-size: 20px;\n  margin: 0 auto;\n  border: blueviolet solid 3px;\n}\n"]}
